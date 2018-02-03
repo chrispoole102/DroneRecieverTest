@@ -1,0 +1,19 @@
+c:\users\chris\documents\visual studio 2015\Projects\DroneRecieverTest\DroneRecieverTest\bin\Debug\DroneRecieverTest.exe.config
+C:\Users\Chris\Documents\Visual Studio 2015\Projects\DroneRecieverTest\DroneRecieverTest\bin\Debug\DroneRecieverTest.exe
+C:\Users\Chris\Documents\Visual Studio 2015\Projects\DroneRecieverTest\DroneRecieverTest\bin\Debug\DroneRecieverTest.pdb
+C:\Users\Chris\Documents\Visual Studio 2015\Projects\DroneRecieverTest\DroneRecieverTest\obj\Debug\DroneRecieverTest.csprojResolveAssemblyReference.cache
+C:\Users\Chris\Documents\Visual Studio 2015\Projects\DroneRecieverTest\DroneRecieverTest\obj\Debug\DroneRecieverTest.exe
+C:\Users\Chris\Documents\Visual Studio 2015\Projects\DroneRecieverTest\DroneRecieverTest\obj\Debug\DroneRecieverTest.pdb
+F:\VisualStudioProjects\DroneRecieverTest\DroneRecieverTest\bin\Debug\DroneRecieverTest.exe.config
+F:\VisualStudioProjects\DroneRecieverTest\DroneRecieverTest\obj\Debug\DroneRecieverTest.exe
+F:\VisualStudioProjects\DroneRecieverTest\DroneRecieverTest\obj\Debug\DroneRecieverTest.pdb
+F:\VisualStudioProjects\DroneRecieverTest\DroneRecieverTest\bin\Debug\DroneRecieverTest.exe
+F:\VisualStudioProjects\DroneRecieverTest\DroneRecieverTest\bin\Debug\DroneRecieverTest.pdb
+F:\VisualStudioProjects\DroneRecieverTest\DroneRecieverTest\obj\Debug\DroneRecieverTest.csprojResolveAssemblyReference.cache
+D:\VisualStudioProjects\DroneRecieverTest\DroneRecieverTest\obj\Debug\DroneRecieverTest.exe
+D:\VisualStudioProjects\DroneRecieverTest\DroneRecieverTest\obj\Debug\DroneRecieverTest.pdb
+D:\VisualStudioProjects\DroneRecieverTest\DroneRecieverTest\bin\Debug\DroneRecieverTest.exe.config
+D:\VisualStudioProjects\DroneRecieverTest\DroneRecieverTest\bin\Debug\DroneRecieverTest.exe
+D:\VisualStudioProjects\DroneRecieverTest\DroneRecieverTest\bin\Debug\DroneRecieverTest.pdb
+D:\VisualStudioProjects\DroneRecieverTest\DroneRecieverTest\obj\Debug\DroneRecieverTest.csprojResolveAssemblyReference.cache
+D:\VisualStudioProjects\DroneRecieverTest\DroneRecieverTest\obj\Debug\DroneRecieverTest.csproj.CoreCompileInputs.cache
